@@ -1,0 +1,10 @@
+"filename", "language", "pip requirements", "Markdown", "Python", "YAML", "XML", "comment", "blank", "total"
+"c:\xampp\htdocs\Proyecto_BullingRDS\rds-ia-video\README.md", "Markdown", 0, 1, 0, 0, 0, 0, 1, 2
+"c:\xampp\htdocs\Proyecto_BullingRDS\rds-ia-video\custom.yaml", "YAML", 0, 0, 0, 6, 0, 2, 4, 12
+"c:\xampp\htdocs\Proyecto_BullingRDS\rds-ia-video\detect_video_http.py", "Python", 0, 0, 50, 0, 0, 14, 17, 81
+"c:\xampp\htdocs\Proyecto_BullingRDS\rds-ia-video\http_data.py", "Python", 0, 0, 43, 0, 0, 19, 16, 78
+"c:\xampp\htdocs\Proyecto_BullingRDS\rds-ia-video\requirements.txt", "pip requirements", 189, 0, 0, 0, 0, 0, 0, 189
+"c:\xampp\htdocs\Proyecto_BullingRDS\rds-ia-video\test.py", "Python", 0, 0, 30, 0, 0, 6, 12, 48
+"c:\xampp\htdocs\Proyecto_BullingRDS\rds-ia-video\video_record.py", "Python", 0, 0, 34, 0, 0, 14, 17, 65
+"c:\xampp\htdocs\Proyecto_BullingRDS\rds-ia-video\yolov5s.pt", "XML", 0, 0, 0, 0, 92910, 0, 366, 93276
+"Total", "-", 189, 1, 157, 6, 92910, 55, 433, 93751
