@@ -15,7 +15,7 @@ frame_buffer = deque(maxlen=max_frames)
 
 # Carga el modelo
 model = torch.hub.load('ultralytics/yolov5', 'custom',
-                       path='C:/xampp/htdocs/Proyecto_BullingRDS/rds-ia-video/acoso.pt')
+                       path='D:/Christian Carrion/Documents/Documentos/UAGRM/Software2/proyectoFinal/Proyecto_BullingRDS/rds-ia-video/acoso.pt')
 
 # Inicia la captura de la cámara
 cap = cv2.VideoCapture(0)

@@ -5,9 +5,10 @@ from cvzone.PoseModule import PoseDetector
 from datetime import datetime
 import torch
 import requests
+import time
 
 # Leemos el modelo
-model = torch.hub.load('ultralytics/yolov5', 'custom', path='C:/xampp/htdocs/Proyecto_BullingRDS/rds-ia-video/acoso.pt')
+model = torch.hub.load('ultralytics/yolov5', 'custom', path='D:/Christian Carrion/Documents/Documentos/UAGRM/Software2/proyectoFinal/Proyecto_BullingRDS/rds-ia-video/acoso.pt')
 cap = cv2.VideoCapture(0)  # Cámara
 detector = PoseDetector()
 last_time = time.time() - 60
